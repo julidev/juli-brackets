@@ -1,0 +1,15 @@
+/*estilo es un CSS*/
+
+body{
+background: yellow;
+font-family: sans-serif;
+}
+
+header{background:pink;}
+section{background: green;}
+footer{background:cyan; }
+header,
+section,
+footer{
+padding: 10px
+}

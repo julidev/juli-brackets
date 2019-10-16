@@ -1,0 +1,41 @@
+/* El misterio esto es un css */
+
+body{background: green;
+	font-family:sans-serif;
+	max-width: 750px;
+	margin: 0 auto;}
+
+a{text-decoration: orange;border-radius:10px 20px 20px 5px}	
+hedader nav ul li{idsplay:inline-block;}
+header h2{color:yellowgreen;text-align: center;}
+
+
+header nav ul {background: wite; padding: 4px;}
+
+header li{display: inline-block;}
+
+header nav ul li a {
+	color:orchid;
+	font-weight: bold}
+
+
+section{background: white;}
+img{width:100%}
+
+section{background:white}
+article h3{
+	color:aqua;
+	text-transform:uppercase;
+	font-size: :5px;
+	margin: 5px}
+
+article h1{font-size: 30px;}
+footer{background: grey;
+	color:yellow;
+	border-radius:0 20px 20px}
+
+header,
+section,
+footer{padding: 10px; 
+margin:10px;
+box-shadow:2px 3px 8px;}
